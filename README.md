@@ -13,9 +13,3 @@ Passionate about cloud technology and data analytics to drive business innovatio
 **Databases:** SQL, MySQL, GraphQL  
 **Frameworks:** ReactJS, Azure DevOps, AngularJS  
 **Big Data:** Hadoop, DataBricks
-
-## Skills
-- Cloud Computing & Security
-- Business Intelligence Analysis
-- Database Management
-- Business Drafting / Test Case Writing
