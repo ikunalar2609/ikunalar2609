@@ -4,7 +4,7 @@ Passionate about cloud technology and data analytics to drive business innovatio
 
 [Portfolio](https://kunalrahangdale.netlify.app/)
 
-## Technical Qualifications
+## Skills
 
 **Languages:** JavaScript, Java, Python  
 **Cloud Platforms:** AWS, Azure  
